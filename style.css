@@ -1,0 +1,186 @@
+body {
+    font-family: 'poppins';
+    background-color: rgb(159,184,210);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#00A0C6; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.title {
+    line-height: 1em;
+    color: rgb(40, 67, 119);
+    text-align: center;
+}
+
+.members {
+    text-align: center;
+    line-height: 1.5em;
+    color: rgb(74,95,144)
+}
+
+.basic-info {
+    text-align: center;
+    color: rgb(74,95,144);
+}
+
+.minji-profile {
+    position: relative;
+    line-height: 0em;
+    margin-left: 231px;
+    bottom: 85px;
+    font-size: 13px;
+    color: rgb(27,47,85);
+}
+
+#minji-img {
+    width:225px; 
+    height: 300px;
+    float: left;
+}
+
+.minji-facts {
+    position: relative;
+    bottom: 50px;
+    line-height: 1em;
+    color: rgb(27,47,85);
+    font-size: 19px;
+}
+
+.minji-gallery {
+    color: rgb(27,47,85);
+    position: relative;
+    bottom: 30px;
+}
+
+#minji-pic {
+    position: relative;
+    left: 500px;
+}
+
+.hanni-profile {
+    color: rgb(27,47,85);
+    line-height: 1.5em;
+    font-size: 11px;
+    position: relative;
+    left: 10px;
+}
+
+.hanni-facts {
+    color: rgb(27,47,85);
+    position: relative;
+    line-height: 1.2em;
+    top: 20px;
+    font-size: 19px;
+}
+
+.hanni-gallery {
+    color: rgb(27,47,85);
+    position: relative;
+    top: 30px;
+}
+
+#hanni-pic {
+    position: relative;
+    left: 500px;
+}
+
+#danielle-img {
+    width: 250px;
+    float: left;
+}
+
+.danielle-profile {
+    position: relative;
+    line-height: 1em;
+    margin-left: 260px;
+    bottom: 80px;
+    font-size: 13px;
+    color: rgb(27,47,85);
+}
+
+.danielle-facts {
+    color: rgb(27,47,85);
+    position: relative;
+    line-height: 1.2em;
+    top: 20px;
+    font-size: 19px;
+}
+
+.danielle-gallery {
+    color: rgb(27,47,85);
+    text-align: center;
+    position: relative;
+    top: 40px;
+}
+
+#haerin-img {
+    width:275px; 
+    float: left;
+}
+
+.haerin-profile {
+    position: relative;
+    line-height: 1em;
+    bottom: 80px;
+    font-size: 13px;
+    color: rgb(27,47,85);
+    left: 10px;
+}
+
+.haerin-facts {
+    color: rgb(27,47,85);
+    position: relative;
+    line-height: 1em;
+    top: 20px;
+    font-size: 19px;
+}
+
+.haerin-gallery {
+    color: rgb(27,47,85);
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+#hyein-img {
+    width: 320px;
+    float: left;
+}
+
+.hyein-profile {
+    color: rgb(27,47,85);
+    position: relative;
+    line-height: 1em;
+    font-size: 13px;
+    margin-left: 330px;
+    bottom: 80px;
+}
+
+.hyein-facts {
+    color: rgb(27,47,85);
+    position: relative;
+    line-height: 1.2em;
+    bottom: 10px;
+    font-size: 19px;
+}
+
+.hyein-gallery {
+    color: rgb(27,47,85);
+    text-align: center;
+    position: relative;
+    bottom: 10px;
+}
+
+.disclaimer {
+    font-size: 15px;
+    line-height: 1em;
+    color: rgb(27,47,85);
+}
